@@ -1,2 +1,2 @@
-# A2
+# Project A2
 Readme
